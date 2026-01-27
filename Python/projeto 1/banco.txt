@@ -1,0 +1,2 @@
+83;Tales;tales@gmail.com;123;1044711.0
+1;Andre;andre@gmail.com;123;-54542.0

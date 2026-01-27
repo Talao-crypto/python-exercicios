@@ -1,0 +1,7 @@
+- sistema bancario (sem o uso de um banco de dados)
+- o banco de dados sera um txt, q ira armazenar as info
+
+- Fetures: 
+    - login, senha, saldo, id(usuario)
+    - ver saldo, depositar, sacar, transferir
+    - salvar as informações das contas
