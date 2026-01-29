@@ -1,0 +1,9 @@
+- Sistema de cadastro de produtos(controle de estoque)
+
+- Usaremos Tkinter -> aprender a usar interfaces
+- tela principal
+- cadastrar produto
+- listar produto
+- verificar quantidade (e dar opção de reabastecimento)
+- salvar no banco de dados (O mano TXT lkkkkkkkkk)
+
